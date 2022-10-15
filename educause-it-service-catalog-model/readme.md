@@ -1,0 +1,65 @@
+The following are the baseline Service Portfolio records based on the EDUCAUSE IT Catalog (2nd edition): The Higher Education IT Service Catalog Model | EDUCAUSE. This model has been loaded into ServiceNow, and the next steps (which this playbook covers) are to populate them with our service offerings.
+
+Legend:
+- Service Portfolio
+  - Taxonomy Node (Layer Definition: Service Category)
+    - Business Service
+
+EDUCAUSE IT Catalog:
+- Information Technology
+  - Administrative and Business
+    - Alumni and Advancement
+    - Athletics
+    - Auxiliary Systems
+    - Business Capability and Process Automation
+    - Facilities Management
+    - Faculty Information Systems
+    - Financial and Procurement Systems
+    - Human Resource Systems
+  - Communication and Collaboration
+    - Conferencing and Telephones
+    - Email and Collaboration Services
+    - Mass Communications and Emergency Notifications
+    - Media and A/V
+    - Web Services
+  - Desktop and Mobile Computing
+    - Desktop and Mobile Device Support
+    - Hardware Lifecycle Services
+    - Printing and Related Services
+    - Software and Applications Distribution
+  - Infrastructure
+    - Business Continuity and Disaster Recovery
+    - Data Center Services
+    - Database Management
+    - Integration Services
+    - Monitoring and Alert Management
+    - Network and Connectivity Management
+    - Server and Storage Management
+  - IT Professional Services
+    - Continuous Improvement and Innovation
+    - Digital Accessibility
+    - IT Communications and Documentation
+    - IT Service Delivery and Support
+    - IT Strategy, Governance, and Enterprise Architecture
+    - Portfolio and Project Management
+    - Training and Outreach
+  - Research
+    - Lab Management Systems
+    - Research Administration Systems
+    - Research-Specific Computing and Applications
+    - Research Data Services
+    - Research Software
+  - Information Security
+    - Identity and Access Management
+    - Secure Computing
+    - Security Consulting and Education
+    - Security Incident Response and Investigation
+    - Security Policy and Compliance
+  - Teaching and Learning
+    - Assessment Systems and Learning Analytics
+    - Academic Technology and Support
+    - E-Portfolio Management
+    - Instructional Technology and Design
+    - Learning Management
+    - Lecture Capture
+    - Polling and Surveys
