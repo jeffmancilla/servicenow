@@ -1,7 +1,7 @@
 # About
 The files in this directory are tools to help you populate your ServiceNow instance with an IT service portfolio based on the **EDUCAUSE IT Catalog (2nd edition): The Higher Education IT Service Catalog Model**: https://www.educause.edu/working-groups/papers/2019/the-higher-education-it-service-catalog-second-edition/understanding-the-service-catalog
 
-The spreadsheets are excel import templates containing the EDUCAUSE terms as rows (data) and are designed to be imported into their respective ServiceNow tables. Once the **Service Portfolio, Taxonomy, and Business Services** are imported, the next step will be to populate *business services* with your organization's current *service offerings*.
+The spreadsheets are excel import templates containing the EDUCAUSE terms as rows (data) and are intended to be imported, in a particular order, to their respective ServiceNow tables. Once the **Service Portfolio, Taxonomy, and Business Services** are imported, the next step will be to populate *business services* with your organization's current *service offerings*.
 
 # How to use
 1. Create a Service Portfolio record: https://[instance].service-now.com/spm_service_portfolio_list.do
