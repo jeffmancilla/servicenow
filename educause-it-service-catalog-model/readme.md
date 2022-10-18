@@ -19,6 +19,7 @@ The spreadsheets are excel import templates containing the EDUCAUSE terms as row
     - import *cmdb_ci_service_business - educause.xlsx*
   
 # EDUCAUSE IT Service Catalog (Second Edition) Reference
+This section summarizes the catalog from the EDUCAUSE page (https://www.educause.edu/working-groups/papers/2019/the-higher-education-it-service-catalog-second-edition/the-higher-education-it-service-catalog-model) in bullet points.
 ## Legend:
 - Service Portfolio
   - Taxonomy Node (Layer Definition: Service Category)
