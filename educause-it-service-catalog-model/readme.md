@@ -36,6 +36,10 @@ This section summarizes the catalog from the EDUCAUSE page (https://www.educause
     - Faculty Information Systems
     - Financial and Procurement Systems
     - Human Resource Systems
+    - Library Systems
+    - Medical and Health Systems
+    - Data, Reporting, and Analytics
+    - Student Information Systems
   - Communication and Collaboration
     - Conferencing and Telephones
     - Email and Collaboration Services
