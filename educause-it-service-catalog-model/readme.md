@@ -6,17 +6,17 @@ The spreadsheets are excel import templates containing the EDUCAUSE terms as row
 #How to use
 1. Create a Service Portfolio record: https://[instance].service-now.com/spm_service_portfolio_list.do
 2. Import/create the Service Taxonomy Layer Definition (Service Category)
-  - go to https://[instance].service-now.com/spm_taxonomy_layer_definition_list.do
-  - right-click any column, select *Import*
-  - import *spm_taxonomy_layer_definition - educause.xlsx*
+    - go to https://[instance].service-now.com/spm_taxonomy_layer_definition_list.do
+    - right-click any column, select *Import*
+    - import *spm_taxonomy_layer_definition - educause.xlsx*
 3. Import the Service Category Taxonomy Nodes
-  - go to https://[instance].service-now.com/spm_taxonomy_node_list.do
-  - right-click any column, select *Import*
-  - import *spm_taxonomy_node - educause.xlsx*
+    - go to https://[instance].service-now.com/spm_taxonomy_node_list.do
+    - right-click any column, select *Import*
+    - import *spm_taxonomy_node - educause.xlsx*
 4. Import the Business Services
-  - go to https://[instance].service-now.com/cmdb_ci_service_business_list.do
-  - right-click any column, select *Import*
-  - import *cmdb_ci_service_business - educause.xlsx*
+    - go to https://[instance].service-now.com/cmdb_ci_service_business_list.do
+    - right-click any column, select *Import*
+    - import *cmdb_ci_service_business - educause.xlsx*
   
 #EDUCAUSE IT Service Catalog (Second Edition) Reference
 ##Legend:
