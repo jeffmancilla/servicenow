@@ -1,11 +1,30 @@
-The following are the baseline Service Portfolio records based on the EDUCAUSE IT Catalog (2nd edition): The Higher Education IT Service Catalog Model | EDUCAUSE. This model has been loaded into ServiceNow, and the next steps (which this playbook covers) are to populate them with our service offerings.
+#About
+The files in this directory are tools to help you populate your ServiceNow instance with an IT service portfolio based on the EDUCAUSE IT Catalog (2nd edition): The Higher Education IT Service Catalog Model | EDUCAUSE: https://www.educause.edu/working-groups/papers/2019/the-higher-education-it-service-catalog-second-edition/understanding-the-service-catalog
 
-Legend:
+The spreadsheets are excel import templates containing the EDUCAUSE terms as rows (data) and are designed to be imported into their respective ServiceNow tables. Once the *Service Portfolio, Taxonomy, and Business Services* are imported, the next step will be to populate *business services* with your organization's current *service offerings*.
+
+#How to use
+1. Create a Service Portfolio record: https://[instance].service-now.com/spm_service_portfolio_list.do
+2. Import/create the Service Taxonomy Layer Definition (Service Category)
+  - go to https://[instance].service-now.com/spm_taxonomy_layer_definition_list.do
+  - right-click any column, select *Import*
+  - import *spm_taxonomy_layer_definition - educause.xlsx*
+3. Import the Service Category Taxonomy Nodes
+  - go to https://[instance].service-now.com/spm_taxonomy_node_list.do
+  - right-click any column, select *Import*
+  - import *spm_taxonomy_node - educause.xlsx*
+4. Import the Business Services
+  - go to https://[instance].service-now.com/cmdb_ci_service_business_list.do
+  - right-click any column, select *Import*
+  - import *cmdb_ci_service_business - educause.xlsx*
+  
+#EDUCAUSE IT Service Catalog (Second Edition) Reference
+##Legend:
 - Service Portfolio
   - Taxonomy Node (Layer Definition: Service Category)
     - Business Service
 
-EDUCAUSE IT Catalog:
+##EDUCAUSE IT Catalog:
 - Information Technology
   - Administrative and Business
     - Alumni and Advancement
