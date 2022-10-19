@@ -4,16 +4,18 @@ The files in this directory are tools to help you populate your ServiceNow insta
 The spreadsheets are excel import templates containing the EDUCAUSE terms as rows (data) and are intended to be imported, in a particular order, to their respective ServiceNow tables. Once the **Service Portfolio, Taxonomy, and Business Services** are imported, the next step will be to populate *business services* with your organization's current *service offerings*.
 
 # How to use
-1. Create a Service Portfolio record, name="IT": https://[instance].service-now.com/spm_service_portfolio_list.do
-2. Import/create the Service Taxonomy Layer Definition (Service Category)
+1. Create a new Service Portfolio record
+    - go to https://[instance].service-now.com/spm_service_portfolio_list.do
+    - name: IT
+3. Import/create the Service Taxonomy Layer Definition (Service Category)
     - go to https://[instance].service-now.com/spm_taxonomy_layer_definition_list.do
     - right-click any column, select *Import*
     - import *spm_taxonomy_layer_definition - educause.xlsx*
-3. Import the Service Category Taxonomy Nodes
+4. Import the Service Category Taxonomy Nodes
     - go to https://[instance].service-now.com/spm_taxonomy_node_list.do
     - right-click any column, select *Import*
     - import *spm_taxonomy_node - educause.xlsx*
-4. Import the Business Services
+5. Import the Business Services
     - go to https://[instance].service-now.com/cmdb_ci_service_business_list.do
     - right-click any column, select *Import*
     - import *cmdb_ci_service_business - educause.xlsx*
