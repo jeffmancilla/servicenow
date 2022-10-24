@@ -1,4 +1,6 @@
-# About
+Looking for a boilerplate of the EDUCAUSE's IT catalog/business service model to get you started on CMDB development within your ServiceNow instance? Look no further! These tools allow you to skip the boring part of getting your portfolio, taxonomy and business services set up, so you can *focus on defining and building out service offerings that your organization is actually delivering.*
+
+# What's in here?
 The files in this directory are tools to help you populate your ServiceNow instance with an IT service portfolio based on the **EDUCAUSE IT Catalog (2nd edition): The Higher Education IT Service Catalog Model**: https://www.educause.edu/working-groups/papers/2019/the-higher-education-it-service-catalog-second-edition/understanding-the-service-catalog
 
 The spreadsheets are excel import templates containing the EDUCAUSE terms as rows (data) and are intended to be imported, in a particular order, to their respective ServiceNow tables. Once the **Service Portfolio, Taxonomy, and Business Services** are imported, the next step will be to populate *business services* with your organization's current *service offerings*.
