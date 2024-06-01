@@ -12,9 +12,9 @@
 3. [Spin up a personal developer instance (PDI)](https://developer.servicenow.com/dev.do) 
   - ideally, you would match the version of your organization's ServiceNow instance, unless you are looking into new features
 
-## Now Platform pillars
+## Now Platform products
 https://www.servicenow.com/community/now-platform/ct-p/now-platform
-When looking to learn about a specific now platformtry to find a Center of Excellence article in the Now Platform product you are interested in
+Products (at least the ones listed below) have servicenow employees publishing *Center of Excellence* articles
 
 ### Workspace Experience
 Flows, Playbooks, Decision Builder
